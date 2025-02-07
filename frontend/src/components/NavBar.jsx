@@ -64,7 +64,7 @@ const Menu = ({ closeOpenNav }) => {
 
 const ConnectBtn = () => {
   return (
-    <a href="#contact">
+    <a href="#Contact">
       <Button
         variant="outlined"
         className="flex md:px-8 md:py-3 py-2 tracking-wide items-center gap-3 rounded-full text-[#4d4d4d]"
@@ -96,7 +96,7 @@ function NavBar() {
 
   return (
     <Navbar
-      className="w-full mx-auto lg:px-10 px-12 py-5 bg-transparent "
+      className="w-full mx-auto lg:px-10 px-12 py-5 bg-transparent"
       blurred={false}
       shadow={false}
     >

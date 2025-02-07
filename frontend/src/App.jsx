@@ -12,15 +12,24 @@ function App() {
     <>
       <div className="bg-gradient-to-b from-[#F2FFF9] to-[#FFF6F1]">
         <NavBar />
-        {/* <div id="Home"> */}
-        <Home />
-        {/* </div> */}
-        <AboutMe />
-        <Skills />
-        <Projects />
-        <Contact />
+        <div id="Home">
+          <Home />
+        </div>
+        <div id="About Me">
+          <AboutMe />
+        </div>
+        <div id="Technical Skills">
+          <Skills />
+        </div>
+        <div id="My works">
+          <Projects />
+        </div>
+        <div id="Contact">
+          <Contact />
+        </div>
         <Footer />
       </div>
+      "", "", "", "", "",
       {/* <div id="Contact" className="h-screen">
         <NavBar />
       </div> */}
