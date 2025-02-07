@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+* {
+  font-family: "Ovo" !important;
+}
+
+svg {
+  height: "2rem" !important;
+  width: "2rem" !important;
+}
