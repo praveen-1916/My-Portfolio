@@ -121,7 +121,7 @@ function Contact() {
                 label="Enter your messgae"
                 required
                 minLength={5}
-                className="bg-white min-h-40 h-full tracking-wide text-xl"
+                className="bg-white h-40 tracking-wide text-xl"
               />
             </motion.div>
             <motion.div
