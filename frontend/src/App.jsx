@@ -29,10 +29,6 @@ function App() {
         </div>
         <Footer />
       </div>
-      "", "", "", "", "",
-      {/* <div id="Contact" className="h-screen">
-        <NavBar />
-      </div> */}
     </>
   );
 }

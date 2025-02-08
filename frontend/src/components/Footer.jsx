@@ -14,13 +14,14 @@ function Footer() {
           pkumarbattu@gamil.com
         </Typography>
       </div>
-      <div className="max-w-6xl lg:mx-auto mx-12 py-5 border-y border-[#969696] mt-8 flex items-center md:justify-between md:flex-row flex-col md:gap-0 gap-3">
+      <div className="max-w-6xl lg:mx-auto mx-12 py-5 border-t border-[#969696] mt-8 flex items-center md:justify-between md:flex-row flex-col md:gap-0 gap-3">
         <Typography className="text-[#626262]">
           © 2025 Praveen kumar. All rights reserved.
         </Typography>
         <div className="flex items-center md:flex-nowrap flex-wrap justify-center gap-8">
           <Typography className="text-[#626262]">Terms of Services</Typography>
           {/* <Typography className="text-[#626262]">Privacy Policy</Typography> */}
+          98 51
           <Typography className="text-[#626262]">Connect with me</Typography>
         </div>
       </div>
